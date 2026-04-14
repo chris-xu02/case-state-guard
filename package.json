@@ -1,0 +1,14 @@
+{
+  "name": "case-state-guard",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Finite-state guards for review / ops case workflows.",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/vitest/vitest.mjs run"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  }
+}
